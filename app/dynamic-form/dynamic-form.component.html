@@ -1,0 +1,9 @@
+<div *ngIf="form">
+  <form [formGroup]="form">
+
+    <div *ngFor="let field of formFields">
+      <app-form-input [field]="field" [form]="form" (formFieldChange)="onformFieldChange($event)"></app-form-input>
+    </div>
+
+  </form>
+</div>
