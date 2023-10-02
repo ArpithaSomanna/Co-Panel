@@ -1,0 +1,20 @@
+[
+    {
+      "name":"dashboard",
+      "path": "/dashboard",
+      "title": "Dashboard",
+      "icon": "dashboard",
+      "class": "",
+      "visible": true,
+      "children": null
+    },
+    {
+      "name":"customerModule",
+      "path": "/customer",
+      "title": "Customer",
+      "icon": "person",
+      "class": "",
+      "visible": false,
+      "children": null
+    }
+]

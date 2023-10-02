@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "name": "customerModule",
+      "icon": "supervisor_account",
+      "cardStyle": "card-header-warning",
+      "title": "Customer",
+      "caption": {
+        "icon": "person",
+        "title": "All registered customers"
+      }
+    },
+    {
+      "name": "contactModule",
+      "icon": "contact_phone",
+      "cardStyle": "card-header-danger",
+      "title": "Contact",
+      "caption": {
+        "icon": "contact_phone",
+        "title": "All available contacts"
+      }
+    },
+    {
+      "name": "opprtunityModule",
+      "icon": "scatter_plot",
+      "cardStyle": "card-header-success",
+      "title": "Opportunity",
+      "caption": {
+        "icon": "work",
+        "title": "Sales opportunities"
+      }
+    },
+    {
+      "name": "salesModule",
+      "icon": "monetization_on",
+      "cardStyle": "card-header-info",
+      "title": "Sales",
+      "caption": {
+        "icon": "monetization_on",
+        "title": "Quotes, Orders, Invoice"
+      }
+    }
+  ],
+  "status": 200
+}

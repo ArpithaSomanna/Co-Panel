@@ -1,0 +1,38 @@
+[
+    {
+        "value": "",
+        "key": "userName",
+        "label": "Username",
+        "required": true,
+        "order": 1,
+        "controlType": "textbox",
+        "type": "textbox",
+        "placeholder": "Username",
+        "flexLayout": {
+            "fxLayout": "row",
+            "fxLayoutAlign": "center center"
+        },
+        "inputFieldCss": {
+            "divCss": "col-md-8",
+            "matFormFieldCss": "example-full-width"
+        }
+    },
+    {
+        "value": "",
+        "key": "password",
+        "label": "Password",
+        "required": true,
+        "order": 2,
+        "controlType": "textbox",
+        "type": "password",
+        "placeholder": "Password",
+        "flexLayout": {
+            "fxLayout": "row",
+            "fxLayoutAlign": "center center"
+        },
+        "inputFieldCss": {
+            "divCss": "col-md-8",
+            "matFormFieldCss": "example-full-width"
+        }
+    }
+]

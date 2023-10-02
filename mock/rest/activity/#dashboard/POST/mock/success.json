@@ -1,0 +1,29 @@
+{
+  "data": {
+    "modules": {
+      "customerModule": {
+        "name": "customerModule",
+        "registered": 50,
+        "active": 35
+      },
+      "contactModule": {
+        "name": "customerModule",
+        "registered": 50,
+        "active": 35
+      },
+      "opprtunityModule": {
+        "name": "opprtunityModule",
+        "registered": 150,
+        "active": 15
+      },
+      "salesModule": {
+        "name": "salesModule",
+        "registered": 50,
+        "active": 40
+      }
+    },
+    "activity": {
+    }
+  },
+  "status": 200
+}

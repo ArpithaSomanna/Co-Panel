@@ -1,0 +1,22 @@
+{
+  "data": {
+    "permissions": [
+      {
+        "name": "dashboard",
+        "permissions": {
+          "view": true
+        }
+      },
+      {
+          "name":"customerModule",
+          "permissions": {
+            "view": true,
+            "add": true,
+            "update": true,
+            "delete": true
+          }
+      }
+    ]
+  },
+  "status": 200
+}
